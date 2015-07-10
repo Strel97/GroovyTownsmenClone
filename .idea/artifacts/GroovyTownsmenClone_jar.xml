@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GroovyTownsmenClone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GroovyTownsmenClone_jar</output-path>
+    <root id="archive" name="GroovyTownsmenClone.jar">
+      <element id="module-output" name="GroovyTownsmenClone" />
+      <element id="module-test-output" name="GroovyTownsmenClone" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/mockobjects-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/jsp-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/servlet-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/jansi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/antlr.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/commons-logging.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/ivy.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/asm3-analysis.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/asm3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/asm3-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/asm3-tree.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/commons-cli.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/bsf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/regexp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/groovy-1.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/jline.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/junit4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/ant-junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/ant.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/ant-launcher.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/groovy/lib/xstream.jar" path-in-jar="/" />
+      <element id="library" level="application" name="groovy-1.8.6" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
